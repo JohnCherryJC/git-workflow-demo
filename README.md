@@ -25,3 +25,6 @@ All changes are merged into master via pull requests.
 - Git branching
 - Semantic versioning
 - Changelog support
+
+## Branching graph
+![Network](network.png)
