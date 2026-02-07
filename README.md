@@ -32,3 +32,6 @@ All changes are merged into master via pull requests.
 
 ## New version
 1.1.1 - Black Friday
+
+##Settings
+v1.0.0
