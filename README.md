@@ -28,3 +28,7 @@ All changes are merged into master via pull requests.
 
 ## Branching graph
 ![Network](network.png)
+
+
+## New version
+1.1.1 - Black Friday
