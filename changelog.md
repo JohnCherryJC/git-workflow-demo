@@ -13,3 +13,6 @@
 
 ## [1.1.0]
 - Added project features description
+
+## [1.1.1]
+- Fixed README title formatting
