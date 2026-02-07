@@ -1,4 +1,4 @@
-# Git Workflow Demo
+# Git Workflow Demo Project
 
 This project demonstrates correct usage of Git:
 - branching
