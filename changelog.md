@@ -10,3 +10,6 @@
 - Project structure created
 - README added
 - install instructions added
+
+## [1.1.0]
+- Added project features description
