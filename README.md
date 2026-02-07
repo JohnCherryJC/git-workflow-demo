@@ -20,3 +20,8 @@ All changes are merged into master via pull requests.
 2. Feature development
 3. Bug fixing
 4. Version release
+
+## Features
+- Git branching
+- Semantic versioning
+- Changelog support
